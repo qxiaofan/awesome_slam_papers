@@ -1,3 +1,16 @@
+## 目录
+<!-- MarkdownTOC depth=4 -->
+- [一 前言](#前言)
+- [二 2020_SLAM](#2020_SLAM)
+- [三 2019_SLAM](#2019_SLAM)
+- [四 2018_SLAM](#2018_SLAM)
+- [五 2017及更早_SLAM](#2017及更早_SLAM)
+- [六 优秀开源项目汇总](#优秀开源项目汇总)
+- [七 激光SLAM](#激光SLAM)
+- [八 视觉SLAM从入门到进阶](#视觉SLAM从入门到进阶)
+
+## 一 前言
+
 > 公众号：[3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=691734513&lang=zh_CN#rd)
 >
 > 主要关注：3D视觉算法、SLAM、vSLAM、计算机视觉、深度学习、自动驾驶、图像处理以及技术干货分享
@@ -10,7 +23,7 @@
 
 <a name="2020_SLAM"></a>
 
-## 2020_SLAM_Papers_Algorithms
+## 二 2020_SLAM_Papers_Algorithms
 
 2020年各大会议SLAM论文文献及解读，请戳——>[2020_SLAM_Papers_Algorithms](2020_SLAM_Papers_Algorithms.md)
 
@@ -18,7 +31,7 @@
 
 <a name="2019_SLAM"></a>
 
-## 2019_SLAM_Papers_Algorithms
+## 三 2019_SLAM_Papers_Algorithms
 
 2019年各大会议SLAM论文文献及解读，请戳——>[2019_SLAM_Papers_Algorithms](2019_SLAM_Papers_Algorithms.md)
 
@@ -26,7 +39,7 @@
 
 <a name="2018_SLAM"></a>
 
-## 2018_SLAM_Papers_Algorithms
+## 四 2018_SLAM_Papers_Algorithms
 
 2018年各大会议SLAM论文文献及解读，请戳——>[2018_SLAM_Papers_Algorithms](2018_SLAM_Papers_Algorithms.md)
 
@@ -34,7 +47,7 @@
 
 <a name="2017及更早_SLAM"></a>
 
-## 2017及更早以前_SLAM_Papers_Algorithms
+## 五 2017及更早以前_SLAM_Papers_Algorithms
 
 2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_Papers_Algorithms](2017及更早_SLAM_Papers_Algorithms.md)
 
@@ -42,7 +55,7 @@
 
 <a name="优秀开源项目汇总"></a>
 
-## 优秀开源项目汇总
+## 六 优秀开源项目汇总
 
 [https://github.com/OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 
@@ -64,7 +77,7 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 <a name="激光SLAM"></a>
 
-## 激光SLAM
+## 七 激光SLAM
 
 > 分为前端和后端。其中前端主要完成匹配和位置估计，后端主要完成进一步的优化约束。
 >
@@ -82,7 +95,7 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 <a name="视觉SLAM从入门到进阶"></a>
 
-## 视觉SLAM从入门到进阶
+## 八 视觉SLAM从入门到进阶
 
 ### Books
 
