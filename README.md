@@ -3,8 +3,44 @@
 > 主要关注：3D视觉算法、SLAM、vSLAM、计算机视觉、深度学习、自动驾驶、图像处理以及技术干货分享
 >
 > 运营者和嘉宾介绍：运营者来自国内一线大厂的算法工程师，深研3D视觉、vSLAM、计算机视觉、点云处理、深度学习、自动驾驶、图像处理、三维重建等领域，特邀嘉宾包括国内外知名高校的博士硕士，旷视、商汤、百度、阿里等就职的算法大佬，欢迎一起交流学习
+>
+> 小助理微信：CV3Der
+>
+> 联系邮箱：vision3d@yeah.net
 
-# SLAM
+<a name="2020_SLAM"></a>
+
+## 2020_SLAM_Papers_Algorithms
+
+2020年各大会议SLAM论文文献及解读，请戳——>[2020_SLAM_Papers_Algorithms](2020_SLAM_Papers_Algorithms.md)
+
+
+
+<a name="2019_SLAM"></a>
+
+## 2019_SLAM_Papers_Algorithms
+
+2019年各大会议SLAM论文文献及解读，请戳——>[2019_SLAM_Papers_Algorithms](2019_SLAM_Papers_Algorithms.md)
+
+
+
+<a name="2018_SLAM"></a>
+
+## 2018_SLAM_Papers_Algorithms
+
+2018年各大会议SLAM论文文献及解读，请戳——>[2018_SLAM_Papers_Algorithms](2018_SLAM_Papers_Algorithms.md)
+
+
+
+<a name="2017及更早_SLAM"></a>
+
+## 2017及更早以前_SLAM_Papers_Algorithms
+
+2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_Papers_Algorithms](2017及更早_SLAM_Papers_Algorithms.md)
+
+
+
+<a name="优秀开源项目汇总"></a>
 
 ## 优秀开源项目汇总
 
@@ -24,6 +60,10 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 [https://github.com/ckddls1321/SLAM_Resources](https://github.com/ckddls1321/SLAM_Resources)
 
+
+
+<a name="激光SLAM"></a>
+
 ## 激光SLAM
 
 > 分为前端和后端。其中前端主要完成匹配和位置估计，后端主要完成进一步的优化约束。
@@ -38,7 +78,11 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 ### 地图构建
 
-## 视觉SLAM
+
+
+<a name="视觉SLAM从入门到进阶"></a>
+
+## 视觉SLAM从入门到进阶
 
 ### Books
 
