@@ -1,10 +1,10 @@
 ## 目录
 <!-- MarkdownTOC depth=4 -->
 - [一 前言](#前言)
-- [二 汇总|2020_SLAM_Papers_Algorithms](#2020_SLAM)
-- [三 汇总|2019_SLAM_Papers_Algorithms](#2019_SLAM)
-- [四 汇总2018_SLAM_Papers_Algorithms](#2018_SLAM)
-- [五 汇总|2017及更早_SLAM_Papers_Algorithms](#2017及更早_SLAM)
+- [二 2020_SLAM_Papers_Algorithms](#2020_SLAM)
+- [三 2019_SLAM_Papers_Algorithms](#2019_SLAM)
+- [四 2018_SLAM_Papers_Algorithms](#2018_SLAM)
+- [五 2017及更早_SLAM_Papers_Algorithms](#2017及更早_SLAM)
 - [六 优秀开源项目汇总](#优秀开源项目汇总)
 - [七 激光SLAM](#激光SLAM)
 - [八 视觉SLAM从入门到进阶](#视觉SLAM从入门到进阶)
@@ -23,33 +23,33 @@
 
 <a name="2020_SLAM"></a>
 
-## 二 汇总|2020_SLAM_Papers_Algorithms
+## 二 2020_SLAM_papers
 
-2020年各大会议SLAM论文文献及解读，请戳——>[2020_SLAM_Papers_Algorithms](2020_SLAM_Papers_Algorithms.md)
+2020年各大会议SLAM论文文献及解读，请戳——>[2020_SLAM_papers](2020_SLAM_papers.md)
 
 
 
 <a name="2019_SLAM"></a>
 
-## 三 汇总|2019_SLAM_Papers_Algorithms
+## 三 2019_SLAM_papers
 
-2019年各大会议SLAM论文文献及解读，请戳——>[2019_SLAM_Papers_Algorithms](2019_SLAM_Papers_Algorithms.md)
+2019年各大会议SLAM论文文献及解读，请戳——>[2019_SLAM_papers](2019_SLAM_papers.md)
 
 
 
 <a name="2018_SLAM"></a>
 
-## 四 汇总|2018_SLAM_Papers_Algorithms
+## 四 2018_SLAM_papers
 
-2018年各大会议SLAM论文文献及解读，请戳——>[2018_SLAM_Papers_Algorithms](2018_SLAM_Papers_Algorithms.md)
+2018年各大会议SLAM论文文献及解读，请戳——>[2018_SLAM_papers](2018_SLAM_papers.md)
 
 
 
 <a name="2017及更早_SLAM"></a>
 
-## 五 汇总|2017及更早以前_SLAM_Papers_Algorithms
+## 五 2017及更早以前_SLAM_papers
 
-2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_Papers_Algorithms](2017及更早_SLAM_Papers_Algorithms.md)
+2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_papers](2017及更早_SLAM_Papers_Algorithms.md)
 
 
 
