@@ -1,10 +1,10 @@
 ## 目录
 <!-- MarkdownTOC depth=4 -->
 - [一 前言](#前言)
-- [二 汇总|2020_SLAM_Papers_Algorithms](#汇总|2020_SLAM_Papers_Algorithms)
-- [三 汇总|2019_SLAM_Papers_Algorithms](#汇总|2019_SLAM_Papers_Algorithms)
-- [四 汇总2018_SLAM_Papers_Algorithms](#汇总2018_SLAM_Papers_Algorithms)
-- [五 汇总|2017及更早_SLAM_Papers_Algorithms](#汇总|2017及更早_SLAM_Papers_Algorithms)
+- [二 汇总|2020_SLAM_Papers_Algorithms](#2020_SLAM)
+- [三 汇总|2019_SLAM_Papers_Algorithms](#2019_SLAM)
+- [四 汇总2018_SLAM_Papers_Algorithms](#2018_SLAM)
+- [五 汇总|2017及更早_SLAM_Papers_Algorithms](#2017及更早_SLAM)
 - [六 优秀开源项目汇总](#优秀开源项目汇总)
 - [七 激光SLAM](#激光SLAM)
 - [八 视觉SLAM从入门到进阶](#视觉SLAM从入门到进阶)
