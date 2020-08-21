@@ -49,7 +49,7 @@
 
 ## 五 2017及更早以前_SLAM_papers
 
-2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_papers](2017及更早_SLAM_Papers.md)
+2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_papers](2017及更早_SLAM_papers.md)
 
 
 
