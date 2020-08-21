@@ -1,7 +1,5 @@
 
-## 汇总|2018年SLAM优秀Papers以及Algorthms
-
-
+## 2018年SLAM_Papers
 
 
 
