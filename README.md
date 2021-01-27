@@ -1,13 +1,9 @@
 ## 目录
 <!-- MarkdownTOC depth=4 -->
 - [一 前言](#前言)
-- [二 2020_SLAM_papers](#2020_SLAM)
-- [三 2019_SLAM_papers](#2019_SLAM)
-- [四 2018_SLAM_papers](#2018_SLAM)
-- [五 2017及更早_SLAM_papers](#2017及更早_SLAM)
-- [六 优秀开源项目汇总](#优秀开源项目汇总)
-- [七 激光SLAM](#激光SLAM)
-- [八 视觉SLAM从入门到进阶](#视觉SLAM从入门到进阶)
+- [二 优秀开源项目汇总](#优秀开源项目汇总)
+- [三 激光SLAM](#激光SLAM)
+- [四 视觉SLAM从入门到进阶](#视觉SLAM从入门到进阶)
 
 ## 一 前言
 
@@ -21,41 +17,11 @@
 >
 > 联系邮箱：vision3d@yeah.net
 
-<a name="2020_SLAM"></a>
-
-## 二 2020_SLAM_papers
-
-2020年各大会议SLAM论文文献及解读，请戳——>[2020_SLAM_papers](2020_SLAM_papers.md)
-
-
-
-<a name="2019_SLAM"></a>
-
-## 三 2019_SLAM_papers
-
-2019年各大会议SLAM论文文献及解读，请戳——>[2019_SLAM_papers](2019_SLAM_papers.md)
-
-
-
-<a name="2018_SLAM"></a>
-
-## 四 2018_SLAM_papers
-
-2018年各大会议SLAM论文文献及解读，请戳——>[2018_SLAM_papers](2018_SLAM_papers.md)
-
-
-
-<a name="2017及更早_SLAM"></a>
-
-## 五 2017及更早以前_SLAM_papers
-
-2017年各大会议SLAM论文文献及解读，请戳——>[2017及更早_SLAM_papers](2017及更早_SLAM_papers.md)
-
 
 
 <a name="优秀开源项目汇总"></a>
 
-## 六 优秀开源项目汇总
+## 二 优秀开源项目汇总
 
 [https://github.com/OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 
@@ -77,7 +43,7 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 <a name="激光SLAM"></a>
 
-## 七 激光SLAM
+## 三 激光SLAM
 
 > 分为前端和后端。其中前端主要完成匹配和位置估计，后端主要完成进一步的优化约束。
 >
@@ -95,7 +61,7 @@ https://github.com/YoujieXia/Awesome-SLAM
 
 <a name="视觉SLAM从入门到进阶"></a>
 
-## 八 视觉SLAM从入门到进阶
+## 四 视觉SLAM从入门到进阶
 
 ### Books
 
